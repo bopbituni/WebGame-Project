@@ -1,0 +1,17 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/jquery.js": "/js/jquery.js",
+    "/js/autotimize.js": "/js/autotimize.js",
+    "/js/common.js": "/js/common.js",
+    "/css/air.css": "/css/air.css",
+    "/css/autotimize.css": "/css/autotimize.css",
+    "/css/common.css": "/css/common.css",
+    "/css/app.css": "/css/app.css",
+    "/css/bootstrap.min.css": "/css/bootstrap.min.css",
+    "/css/owl.carousel.min.css": "/css/owl.carousel.min.css",
+    "/css/swiper.min.css": "/css/swiper.min.css",
+    "/js/jquery-migrate.min.js": "/js/jquery-migrate.min.js",
+    "/js/owl.carousel.min.js": "/js/owl.carousel.min.js",
+    "/js/swiper.min.js": "/js/swiper.min.js",
+    "/js/jquery.marquee.min.js": "/js/jquery.marquee.min.js"
+}
